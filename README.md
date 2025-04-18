@@ -13,5 +13,5 @@ This repository implements the network proposed in “A Unified Multi‑Frequenc
 ## 🎯 Key Features  
 - ✅ Classification on HAM10000 & ISIC2019 datasets  
 - ✅ Segmentation on ISIC2018 & Kvasir‑SEG datasets  
-- ✅ New P‑SinkD dataset: multisource dermoscopy & CT images (2018–2024, Wuxi Second People’s Hospital)  
+- ✅ New P‑SinkD dataset: multisource dermoscopy & CT images
 - ✅ Configurable training and evaluation scripts  
