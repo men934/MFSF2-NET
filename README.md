@@ -40,6 +40,7 @@ P‑SinkD (Private): 836 dermoscopic + 3,344 reflectance confocal microscopy (RC
 ISIC2018: 2,594 dermoscopic images with lesion masks.
 
 Kvasir‑SEG: 1,000 polyp images with segmentation masks.
+
 **Results**
 
 <img src="images/classification.png" alt="Classification result diagram" style="width:60%;"/>
