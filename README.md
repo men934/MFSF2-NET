@@ -8,7 +8,7 @@ This repository implements the network proposed in “A Unified Multi‑Frequenc
 
 1. **Dual-Branch Feature Extraction**: The two branches (ResNet branch and PVTNet branch) extract different features respectively  
 2. **Multi-Frequency Awareness Fusion (MFAF)**: DCT-based decomposition to capture informative high- and low-frequency components. 
-3. **Multi‑Frequency & Multi‑Scale Fusion**: Cross-frequency and cross-scale fusion of global and local features, followed by concatenation + Conv+BN+ReLU for final feature reassembly.  
+3. **Pyramid Multi-Scale Fusion (PMSF)**: Hierarchical fusion module that integrates multi-frequency features across scales into a cohesive representation.
 ## 🏗️ Architecture Diagram
 <img src="images/architecture.png" alt="MFSF²‑NET Architecture" style="width:60%;"/>
 
