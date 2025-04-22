@@ -12,7 +12,7 @@ This repository implements the network proposed in “A Unified Multi‑Frequenc
 ## 🏗️ Architecture Diagram
 <img src="images/architecture.png" alt="MFSF²‑NET Architecture" style="width:80%;"/>
 
-                         *Figure 1. MFSF²‑NET diagram.*
+*                         Figure 1. MFSF²‑NET diagram.*
 
 ## 🎯 Key Features  
 - ✅ New P‑SinkD dataset: multisource dermoscopy & CT images
@@ -33,7 +33,7 @@ P‑SinkD (Private): 836 dermoscopic + 3,344 reflectance confocal microscopy (RC
 
 <img src="images/P-SinkD.png" alt="Dataset visualization" style="width:60%;"/>
 
-                         *Figure 2. Dataset visualization.*
+*                         Figure 2. Dataset visualization.*
 
 **Segmentation Datasets**
 
@@ -45,11 +45,11 @@ Kvasir‑SEG: 1,000 polyp images with segmentation masks.
 
 <img src="images/classification.png" alt="Classification result diagram" style="width:60%;"/>
 
-                         *Figure 3. Classification result.*
+*                         Figure 3. Classification result.*
 
 <img src="images/segmentation.png" alt="Segmentation result graph" style="width:60%;"/>
 
-                         *Figure 4. Segmentation result.*
+*                         Figure 4. Segmentation result.*
 
 ## 🔧 Future Updates
 
