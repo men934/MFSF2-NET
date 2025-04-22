@@ -9,7 +9,9 @@ This repository implements the network proposed in “A Unified Multi‑Frequenc
 1. **Dual‑Branch Alignment**: Aligning ResNet and PVTNet feature maps via bilinear interpolation + 3×3 convolution, combining global and local representations.  
 2. **Multi‑Frequency Feature Extraction (MFFE)**: Applying DCT basis filters to aligned features to extract complementary frequency details.  
 3. **Multi‑Frequency & Multi‑Scale Fusion**: Cross-frequency and cross-scale fusion of global and local features, followed by concatenation + Conv+BN+ReLU for final feature reassembly.  
+## 🏗️ Architecture Diagram
 
+![MFSF²‑NET Architecture](images/architecture.png)
 ## 🎯 Key Features  
 - ✅ New P‑SinkD dataset: multisource dermoscopy & CT images
 - ✅ Classification on HAM10000 & ISIC2019 datasets  
