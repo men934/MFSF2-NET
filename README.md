@@ -21,7 +21,7 @@ This repository implements the network proposed in “A Unified Multi‑Frequenc
 ## 📂 Datasets
 All datasets are split in an 8:1:1 ratio for training, validation, and testing.
 
-Classification Datasets
+**Classification Datasets**
 
 HAM10000: 10,015 dermoscopic images across seven categories.
 
@@ -29,7 +29,8 @@ ISIC2019: Over 25,000 dermoscopic images covering melanoma and non-melanoma.
 
 P‑SinkD (Private): 836 dermoscopic + 3,344 reflectance confocal microscopy (RCM) images from 532 patients (Wuxi Second People’s Hospital, 2018–2024). Annotation by three board-certified dermatologists; consensus labels.
 ![MFSF²‑NET Architecture](images/P-SinkD.png)
-Segmentation Datasets
+
+**Segmentation Datasets**
 
 ISIC2018: 2,594 dermoscopic images with lesion masks.
 
