@@ -10,9 +10,8 @@ This repository implements the network proposed in “A Unified Multi‑Frequenc
 2. **Multi‑Frequency Feature Extraction (MFFE)**: Applying DCT basis filters to aligned features to extract complementary frequency details.  
 3. **Multi‑Frequency & Multi‑Scale Fusion**: Cross-frequency and cross-scale fusion of global and local features, followed by concatenation + Conv+BN+ReLU for final feature reassembly.  
 ## 🏗️ Architecture Diagram
-![MFSF²‑NET Architecture](images/architecture.png)
-*Figure 1. MFSF²‑NET diagram.*
 <img src="images/architecture.png" alt="MFSF²‑NET Architecture" style="width:60%;"/>
+*Figure 1. MFSF²‑NET diagram.*
 ## 🎯 Key Features  
 - ✅ New P‑SinkD dataset: multisource dermoscopy & CT images
 - ✅ Classification on HAM10000 & ISIC2019 datasets  
@@ -29,7 +28,7 @@ HAM10000: 10,015 dermoscopic images across seven categories.
 ISIC2019: Over 25,000 dermoscopic images covering melanoma and non-melanoma.
 
 P‑SinkD (Private): 836 dermoscopic + 3,344 reflectance confocal microscopy (RCM) images from 532 patients (Wuxi Second People’s Hospital, 2018–2024). Annotation by three board-certified dermatologists; consensus labels.
-![Dataset visualization](images/P-SinkD.png)
+<img src="images/P-SinkD.png" alt="Dataset visualization" style="width:60%;"/>
 
 **Segmentation Datasets**
 
@@ -37,9 +36,9 @@ ISIC2018: 2,594 dermoscopic images with lesion masks.
 
 Kvasir‑SEG: 1,000 polyp images with segmentation masks.
 **Results**
-![MFSF²‑NET Architecture](images/P-SinkD.png)
+![Classification result diagram](images/classification.png)
 
-![MFSF²‑NET Architecture](images/P-SinkD.png)
+![Segmentation result graph](images/segmentation.png)
 ## 🔧 Future Updates
 
 This repository will be continuously updated with new features, optimizations, and expanded dataset support.
