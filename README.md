@@ -11,7 +11,9 @@ This repository implements the network proposed in “A Unified Multi‑Frequenc
 3. **Multi‑Frequency & Multi‑Scale Fusion**: Cross-frequency and cross-scale fusion of global and local features, followed by concatenation + Conv+BN+ReLU for final feature reassembly.  
 ## 🏗️ Architecture Diagram
 <img src="images/architecture.png" alt="MFSF²‑NET Architecture" style="width:60%;"/>
+
 *Figure 1. MFSF²‑NET diagram.*
+
 ## 🎯 Key Features  
 - ✅ New P‑SinkD dataset: multisource dermoscopy & CT images
 - ✅ Classification on HAM10000 & ISIC2019 datasets  
