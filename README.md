@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aa5fcce4-2f4a-4d07-9086-09bf1b48360a)![image](https://github.com/user-attachments/assets/e4034dcc-3798-4ea2-a302-72f2f90d601a)# MultiFreq2Scale‑Fusion  
+# MultiFreq2Scale‑Fusion  
 A unified multi-frequency–multi-scale network for multimodal medical image feature fusion
 
 <!-- Badges (CI, License, PyPI) can go here -->
@@ -17,6 +17,7 @@ This repository implements the network proposed in “A Unified Multi‑Frequenc
 - ✅ Configurable training and evaluation scripts  
 
 ## 📂 Datasets
+![Uploading image.png…]()
 
 All datasets are split in an 8:1:1 ratio for training, validation, and testing.
 
