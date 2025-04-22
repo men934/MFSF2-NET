@@ -30,7 +30,10 @@ HAM10000: 10,015 dermoscopic images across seven categories.
 ISIC2019: Over 25,000 dermoscopic images covering melanoma and non-melanoma.
 
 P‑SinkD (Private): 836 dermoscopic + 3,344 reflectance confocal microscopy (RCM) images from 532 patients (Wuxi Second People’s Hospital, 2018–2024). Annotation by three board-certified dermatologists; consensus labels.
+
 <img src="images/P-SinkD.png" alt="Dataset visualization" style="width:60%;"/>
+
+*Figure 2. Dataset visualization.*
 
 **Segmentation Datasets**
 
@@ -38,9 +41,15 @@ ISIC2018: 2,594 dermoscopic images with lesion masks.
 
 Kvasir‑SEG: 1,000 polyp images with segmentation masks.
 **Results**
-![Classification result diagram](images/classification.png)
 
-![Segmentation result graph](images/segmentation.png)
+<img src="images/classification.png" alt="Classification result diagram" style="width:60%;"/>
+
+*Figure 3. Classification result.*
+
+<img src="images/segmentation.png" alt="Segmentation result graph" style="width:60%;"/>
+
+*Figure 4. Segmentation result.*
+
 ## 🔧 Future Updates
 
 This repository will be continuously updated with new features, optimizations, and expanded dataset support.
