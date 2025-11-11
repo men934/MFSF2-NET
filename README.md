@@ -1,10 +1,9 @@
-# MultiFreq2Scale‑Fusion  
-A unified multi-frequency–multi-scale network for multimodal medical image feature fusion
-
+# MFSF2-NET
+MFSF2-NET:Towards Improved Skin Lesion Diagnosis via Multi-Scaleand Multi-Frequency-Domain Fusion
 <!-- Badges (CI, License, PyPI) can go here -->
 
 ## 📖 Overview  
-This repository implements the network proposed in “A Unified Multi‑Frequency–Multi‑Scale Network for Multimodal Medical Image Feature Fusion” (2025). Our model addresses both classification and segmentation by:
+This repository implements the network proposed in “MFSF2-NET:Towards Improved Skin Lesion Diagnosis via Multi-Scaleand Multi-Frequency-Domain Fusion” (2025). Our model addresses both classification and segmentation by:
 
 1. **Dual-Branch Feature Extraction**: The two branches (ResNet branch and PVTNet branch) extract different features respectively  
 2. **Multi-Frequency Awareness Fusion (MFAF)**: DCT-based decomposition to capture informative high- and low-frequency components. 
