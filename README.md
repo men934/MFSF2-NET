@@ -9,7 +9,7 @@ This repository implements the network proposed in “MFSF2-NET:Towards Improved
 2. **Multi-Frequency Awareness Fusion (MFAF)**: DCT-based decomposition to capture informative high- and low-frequency components. 
 3. **Pyramid Multi-Scale Fusion (PMSF)**: Hierarchical fusion module that integrates multi-frequency features across scales into a cohesive representation.
 ## 🏗️ Architecture Diagram
-<img src="images/architecture.png" alt="MFSF²‑NET Architecture" style="width:80%;"/>
+<img src="images/architecture -diagram.png" alt="MFSF²‑NET Architecture" style="width:80%;"/>
 
 *Figure 1. MFSF²‑NET diagram.*
 
