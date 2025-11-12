@@ -5,7 +5,7 @@ MFSF2-NET:Towards Improved Skin Lesion Diagnosis via Multi-Scaleand Multi-Freque
 ## 📖 Overview  
 This repository implements the network proposed in “MFSF2-NET:Towards Improved Skin Lesion Diagnosis via Multi-Scaleand Multi-Frequency-Domain Fusion” (2025). Our model addresses both classification and segmentation by:
 
-1. **Dual-Branch Feature Extraction**: The two branches (ResNet branch and PVTNet branch) extract different features respectively  
+1. **Dual-Branch Feature Extraction**: The two branches (ResNet branch and PVT branch) extract different features respectively  
 2. **Multi-Frequency Awareness Fusion (MFAF)**: DCT-based decomposition to capture informative high- and low-frequency components. 
 3. **Pyramid Multi-Scale Fusion (PMSF)**: Hierarchical fusion module that integrates multi-frequency features across scales into a cohesive representation.
 ## 🏗️ Architecture Diagram
